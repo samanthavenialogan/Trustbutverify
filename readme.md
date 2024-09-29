@@ -1,4 +1,6 @@
 # Prepare your Data for AI Using Aiven for OpenSearch and LangChain
+testing on the readme to see if this also tries submit upstream like Jenn does 
+
 
 This workshop aims to take unprepared data and make it usable with a Retrieval Augementation Generation (RAG) Pattern for a chat bot.
 
